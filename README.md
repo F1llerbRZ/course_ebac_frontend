@@ -1,2 +1,1 @@
-## Git Assessment Exercise 
-### module 2
+## Git Assessment Exercise -  Module 2
